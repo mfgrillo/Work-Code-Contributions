@@ -1,1 +1,3 @@
-  This script aims to create a user friendly experience for those attempting to 
+This script aims to create a user friendly experience for those attempting to create inputs for simulating the output of digital marketing campaigns with different total budgets and different distributions of said budgets across the different marketing channels. This was created for a team containing members with limited coding experience, so it aims to be as friendly as possible.
+
+That being said, this is a very early attempt at creating a script in my Python journey. A lot of the practices implemented there are not choices I would make today, I did not modify it for retrospective purposes, I like seeing how far I've come!
